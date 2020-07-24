@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/maxeon-ui/static/css/main.611a3955.chunk.css",
+    "main.js": "/maxeon-ui/static/js/main.d3af8df2.chunk.js",
+    "main.js.map": "/maxeon-ui/static/js/main.d3af8df2.chunk.js.map",
+    "runtime-main.js": "/maxeon-ui/static/js/runtime-main.20c43494.js",
+    "runtime-main.js.map": "/maxeon-ui/static/js/runtime-main.20c43494.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/maxeon-ui/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2f3d825d.chunk.js": "/maxeon-ui/static/js/2.2f3d825d.chunk.js",
+    "static/js/2.2f3d825d.chunk.js.map": "/maxeon-ui/static/js/2.2f3d825d.chunk.js.map",
+    "index.html": "/maxeon-ui/index.html",
+    "precache-manifest.b1c688f57ef00ae65c703c3c11ab5496.js": "/maxeon-ui/precache-manifest.b1c688f57ef00ae65c703c3c11ab5496.js",
+    "service-worker.js": "/maxeon-ui/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/maxeon-ui/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.611a3955.chunk.css.map": "/maxeon-ui/static/css/main.611a3955.chunk.css.map",
+    "static/js/2.2f3d825d.chunk.js.LICENSE.txt": "/maxeon-ui/static/js/2.2f3d825d.chunk.js.LICENSE.txt",
+    "static/media/Banner.png": "/maxeon-ui/static/media/Banner.4a6ebd5a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20c43494.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2f3d825d.chunk.js",
+    "static/css/main.611a3955.chunk.css",
+    "static/js/main.d3af8df2.chunk.js"
+  ]
+}
