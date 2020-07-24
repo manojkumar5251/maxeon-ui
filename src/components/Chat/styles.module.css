@@ -1,0 +1,74 @@
+.FloatingButton {
+  right: 4rem;
+  bottom: 2rem;
+  height: 3rem;
+  width: 3rem;
+  background-color: white !important;
+  cursor: pointer;
+  border-radius: 50px !important;
+  border-bottom-right-radius: 10px !important;
+}
+
+.Close {
+  font-size: 1.5rem;
+}
+
+.Icon {
+  height: 27px;
+  width: 27px;
+}
+
+.Messages::-webkit-scrollbar {
+  width: 0 !important;
+}
+
+.Messages {
+  flex-grow: 1;
+  overflow-y: auto;
+  transform: rotate(180deg);
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  max-height: 14rem;
+}
+
+.Messages > div {
+  transform: rotate(-180deg);
+}
+
+.Message {
+  padding: 6px 7px 8px 9px;
+  word-break: break-word;
+}
+
+.Thumbnail {
+  height: 30px;
+  width: 30px;
+  border-radius: 50px;
+  background-color: #4c5aa1;
+}
+
+.recievedMsgIndicator {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 15px 15px 0 0;
+  border-color: #ecf1fb transparent transparent transparent;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  left: 0;
+  bottom: -12px;
+}
+
+.sentMsgIndicator {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 15px 15px 0;
+  border-color: transparent #4c5aa1 transparent transparent;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  right: 0;
+  bottom: -12px;
+}
